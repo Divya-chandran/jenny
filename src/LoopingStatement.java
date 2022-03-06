@@ -31,7 +31,7 @@ public class LoopingStatement {
 			}
 			
 		}
-		
+		System.out.println();
 	}
 	
 }
